@@ -1,3 +1,7 @@
+The below README file is copied from the original BEETLE repository
+
+
+
 # BEETLE: a multicentric dataset for training and benchmarking breast cancer segmentation in H&E slides
 
 <img width="5264" height="1054" alt="banner" src="https://github.com/user-attachments/assets/64a39678-6a75-44d3-83fe-9884c43c3ba6" />
